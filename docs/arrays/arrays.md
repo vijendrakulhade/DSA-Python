@@ -90,3 +90,4 @@
 9. [Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/)
 10. [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
 11. [Orderly Queue](https://leetcode.com/problems/orderly-queue/)
+12. [Design Tic-Tac-Toe](https://www.lintcode.com/problem/746/)
