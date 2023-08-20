@@ -72,6 +72,10 @@
 31. [ Push Dominoes](https://leetcode.com/problems/push-dominoes/)
 32. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 33. [ The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/)
+34. [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)
+35. [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)
+36. [Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/)
+37. [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)
   
 
 ### Hard
@@ -84,3 +88,5 @@
 7. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 8. [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)
 9. [Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/)
+10. [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
+11. [Orderly Queue](https://leetcode.com/problems/orderly-queue/)
