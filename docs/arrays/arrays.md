@@ -69,7 +69,9 @@
 28. [3Sum](https://leetcode.com/problems/3sum/)
 29. [4Sum](https://leetcode.com/problems/4sum/)
 30. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
-31. 
+31. [ Push Dominoes](https://leetcode.com/problems/push-dominoes/)
+32. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+33. [ The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/)
   
 
 ### Hard
@@ -81,3 +83,4 @@
 6. [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
 7. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 8. [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)
+9. [Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/)
