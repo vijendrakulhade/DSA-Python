@@ -68,6 +68,8 @@
 27. [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
 28. [3Sum](https://leetcode.com/problems/3sum/)
 29. [4Sum](https://leetcode.com/problems/4sum/)
+30. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+31. 
   
 
 ### Hard
@@ -78,3 +80,4 @@
 5. [Best Meeting Point](https://leetcode.com/problems/best-meeting-point/)
 6. [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
 7. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+8. [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)
