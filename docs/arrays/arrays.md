@@ -35,7 +35,7 @@
 33. [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 34. [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 35. [Add Strings](https://leetcode.com/problems/add-strings/)
-36. 
+36. [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 
 ### Medium
 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
@@ -59,6 +59,7 @@
 19. [ Wiggle Sort](https://www.lintcode.com/problem/508/)
 20. [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)
 21. [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
+22. [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)
 
 ### Hard
 1. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
