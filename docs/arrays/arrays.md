@@ -37,6 +37,9 @@
 35. [Add Strings](https://leetcode.com/problems/add-strings/)
 36. [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 37. [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
+38. [Island Perimeter](https://leetcode.com/problems/island-perimeter/)
+39. [Meeting Rooms](https://www.lintcode.com/problem/920/)
+40. [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
 
 ### Medium
 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
@@ -76,6 +79,22 @@
 35. [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)
 36. [Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/)
 37. [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)
+38. [Maximum Sum Of Two Non-overlapping Subarrays Medium](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)
+39. [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)
+40. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+41. [](https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/)
+42. [Meeting Rooms II](https://www.lintcode.com/problem/919/)
+43. [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
+44. [Insert Intervals](https://leetcode.com/problems/insert-interval/)
+45. [Find Minimum Number Of Arrows Needed To Burst Balloon](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+46. [Car Pooling](https://leetcode.com/problems/car-pooling/)
+47. [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)
+48. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+49. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+50. [Number Of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/)
+51. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+52. [Word Search](https://leetcode.com/problems/word-search/)
+
   
 
 ### Hard
@@ -91,3 +110,6 @@
 10. [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)
 11. [Orderly Queue](https://leetcode.com/problems/orderly-queue/)
 12. [Design Tic-Tac-Toe](https://www.lintcode.com/problem/746/)
+13. [ Largest Multiple Of Three Hard](https://leetcode.com/problems/largest-multiple-of-three/)
+14. [Text Justification](https://leetcode.com/problems/text-justification/)
+
