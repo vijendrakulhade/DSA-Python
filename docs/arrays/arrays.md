@@ -34,6 +34,8 @@
 32. [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 33. [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 34. [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
+35. [Add Strings](https://leetcode.com/problems/add-strings/)
+36. 
 
 ### Medium
 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
@@ -56,6 +58,7 @@
 18. [Rotate Image](https://leetcode.com/problems/rotate-image/)
 19. [ Wiggle Sort](https://www.lintcode.com/problem/508/)
 20. [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)
+21. [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
 
 ### Hard
 1. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
