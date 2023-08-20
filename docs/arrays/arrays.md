@@ -60,6 +60,12 @@
 20. [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)
 21. [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
 22. [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)
+23. [Car Fleet](https://leetcode.com/problems/car-fleet/)
+24. [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
+25. [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)
+26. [Maximum Swap](https://leetcode.com/problems/maximum-swap/)
+27. [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
+  
 
 ### Hard
 1. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
@@ -67,3 +73,4 @@
 3. [Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)
 4. [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)
 5. [Best Meeting Point](https://leetcode.com/problems/best-meeting-point/)
+6. [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
