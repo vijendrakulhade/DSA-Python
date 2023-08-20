@@ -82,7 +82,7 @@
 38. [Maximum Sum Of Two Non-overlapping Subarrays Medium](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)
 39. [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)
 40. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
-41. [](https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/)
+41. [Minimum Number of Platforms Required for a Railway/Bus Station](https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/)
 42. [Meeting Rooms II](https://www.lintcode.com/problem/919/)
 43. [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
 44. [Insert Intervals](https://leetcode.com/problems/insert-interval/)
