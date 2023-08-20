@@ -29,8 +29,8 @@
 27. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
 29. [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/)
-30. [Range Addition II (https://leetcode.com/problems/range-addition-ii/)]
-31. [Squares of a Sorted Array(https://leetcode.com/problems/squares-of-a-sorted-array/)]
+30. [Range Addition II](https://leetcode.com/problems/range-addition-ii/)
+31. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
 ### Medium
 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
@@ -43,10 +43,10 @@
 8. [Rotate Array](https://leetcode.com/problems/rotate-array/)
 9. [Sort Colors](https://leetcode.com/problems/sort-colors/)
 10. [House Robber](https://leetcode.com/problems/house-robber/)
-11. [Container With Most Water(https://leetcode.com/problems/container-with-most-water/)
-12. [Majority Element II(https://leetcode.com/problems/majority-element-ii/)]
-13. [ Next Greater Element III(https://leetcode.com/problems/next-greater-element-iii/)]
-14. [Partition Labels(https://leetcode.com/problems/partition-labels/)]
+11. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+12. [Majority Element II](https://leetcode.com/problems/majority-element-ii/)
+13. [ Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)
+14. [Partition Labels](https://leetcode.com/problems/partition-labels/)
 
 ### Hard
 1. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
