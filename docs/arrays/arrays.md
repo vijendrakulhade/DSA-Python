@@ -36,6 +36,7 @@
 34. [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 35. [Add Strings](https://leetcode.com/problems/add-strings/)
 36. [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+37. [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 
 ### Medium
 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
@@ -65,6 +66,8 @@
 25. [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)
 26. [Maximum Swap](https://leetcode.com/problems/maximum-swap/)
 27. [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
+28. [3Sum](https://leetcode.com/problems/3sum/)
+29. [4Sum](https://leetcode.com/problems/4sum/)
   
 
 ### Hard
@@ -74,3 +77,4 @@
 4. [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)
 5. [Best Meeting Point](https://leetcode.com/problems/best-meeting-point/)
 6. [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
+7. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
