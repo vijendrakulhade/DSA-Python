@@ -31,6 +31,9 @@
 29. [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/)
 30. [Range Addition II](https://leetcode.com/problems/range-addition-ii/)
 31. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+32. [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
+33. [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
+34. [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 
 ### Medium
 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
@@ -47,8 +50,16 @@
 12. [Majority Element II](https://leetcode.com/problems/majority-element-ii/)
 13. [ Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)
 14. [Partition Labels](https://leetcode.com/problems/partition-labels/)
+15. [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)
+16. [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)
+17. [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
+18. [Rotate Image](https://leetcode.com/problems/rotate-image/)
+19. [ Wiggle Sort](https://www.lintcode.com/problem/508/)
+20. [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)
 
 ### Hard
 1. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
 2. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 3. [Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)
+4. [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)
+5. [Best Meeting Point](https://leetcode.com/problems/best-meeting-point/)
